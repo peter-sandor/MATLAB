@@ -1,0 +1,11 @@
+lns 300 
+fsp 244 
+lns -50 
+fsp 295 
+lns 500 
+fsp 1000 
+lns 500 
+fsp 681.3 
+lns 500 
+fsp 1000 
+lns 500 

@@ -1,0 +1,15 @@
+fsp 640 
+lns 200 
+fsp 190 
+lns -100 
+fsp 745 
+lns 100 
+fsp 505 
+lns 500 
+fsp 390 
+lns 500 
+fsp 255 
+bpl 1         1.5 
+fsp 10 
+bsp 1.5              1           1000 
+fsp 1000 
