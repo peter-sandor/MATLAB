@@ -1,0 +1,1 @@
+[status,codeprint] = system(['C:\MATLAB\R2015b\etc\win64\lmutil lmstat -a -c "C:\MATLAB\MATLAB_license180036.lic"']);
